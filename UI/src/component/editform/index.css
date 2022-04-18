@@ -1,0 +1,9 @@
+.align{
+    transform: translateX(420%) translateY(-50%);
+    width: 14%;
+
+}
+.align1{
+    transform: translateX(78%) translateY(50%);
+    width: 14%;
+}

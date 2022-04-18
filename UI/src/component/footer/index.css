@@ -1,0 +1,11 @@
+.footer{
+    align-items: center;
+    transform: translateX(33%);
+}
+.footer a{
+color: #21428f;
+text-decoration: underline;
+}
+.footer h3{
+    color:white;
+}

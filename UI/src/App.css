@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(45, 66, 80);
+}
+
+.table-banner-wrapper{
+  border-radius: 10px;
+}
+.table-banner-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+  
+}
+#second-logo {
+  width: 200px;
+  height: auto;
+  transform: translateX(18%);
+}
+
+.logo-wrapper {
+  width: 350px;
+}
+.reload-logo{
+  width: 10px;
+}
+
+.ReactModal__Overlay--after-open{
+  z-index: 9999;
+  background-color: rgb(45, 66, 80)
+
+  
+}
+
+.form-field-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.add-form-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgb(45, 70, 85);
+  align-items: center;
+  width: 55%;
+}
+.add-form-wrapper1 {
+  display: flex;
+  width: 150px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgb(45, 70, 85);
+  align-items: center;
+  width: 55%;
+}
+.element.style {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  border: 1px solid rgb(204, 204, 204);
+  background: rgb(122, 68, 68);
+  overflow: auto;
+  border-radius: 4px;
+  outline: none;
+  padding: 20px;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  height: 500px;
+}
+.fetch-background{
+  color: rgb(45, 70, 85);
+}
+.MuiTextField-root {
+  color: rgb(255, 255, 255) !important;
+  background: whitesmoke !important;
+  border-radius: 5px;
+}

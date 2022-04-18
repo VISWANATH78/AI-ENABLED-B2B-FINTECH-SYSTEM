@@ -1,0 +1,20 @@
+.advancesearch{
+transform: translateX(90%) translateY(-45%);
+border-radius: 14px;
+background: #ffffff;
+}
+.button-color{
+    transform: translateX(14%);
+
+    border-color: rgb(255, 255, 255);
+    text-emphasis-color: white;
+}
+.ToggleButton predict{
+background-color: rgb(87, 98, 105);
+}
+.overall{
+    transform: translateY(-30%);
+}
+.icon{
+    transform: translateX(-15%) translateY(-44%);
+}

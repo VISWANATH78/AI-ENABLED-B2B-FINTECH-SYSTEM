@@ -1,0 +1,33 @@
+.actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding: 10px 0;
+    transform: translateX(2%) translateY(88%);
+  }
+  
+  .MuiToggleButton-root {
+    text-transform: none !important;
+    width: 150px;
+    color: whitesmoke !important;
+    border-color: #2196f3 !important;
+  }
+  
+  .Mui-selected {
+    background-color: #2196f3 !important;
+  }
+  
+  .MuiTextField-root {
+    color: black !important;
+    background: rgb(255, 255, 255) !important;
+    border-radius: 5px;
+  }
+  
+  .MuiButton-root {
+    text-transform: none !important;
+    color: rgb(255, 255, 255) !important;
+    width: 150px !important;
+  }
+  
+  
